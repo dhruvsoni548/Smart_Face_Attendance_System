@@ -1,6 +1,6 @@
 # Smart_Face_Attendance_System
 
-The "SmartFace Attendance System" is a sophisticated Python project that leverages several powerful libraries, including cv2, csv, datetime, numpy, and face_recognition, to revolutionize the process of employee attendance tracking. This innovative system enables hassle-free attendance management by using a camera to recognize and compare employees' faces with pre-uploaded face data.
+The "Smart_Face_Attendance_System" is a sophisticated Python project that leverages several powerful libraries, including cv2, csv, datetime, numpy, and face_recognition, to revolutionize the process of employee attendance tracking. This innovative system enables hassle-free attendance management by using a camera to recognize and compare employees' faces with pre-uploaded face data.
 
 Key Features:
 
